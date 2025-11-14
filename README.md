@@ -58,3 +58,6 @@ AI 비전 모델을 활용해 재활용품의 재질 및 오염도를 인식하�
 하진영 – HMI 사용자 인터페이스 구현  
 강부식 – PLC 연동 및 로봇 프로그래밍 구현  
 성승용 – PLC 서브모터 및 컨베이어 구동 작업 진행  
+
+## 발표자료
+https://www.canva.com/design/DAG3teZ8Lfw/IRxhapXEQB46k9hTFgrtpQ/view?utm_content=DAG3teZ8Lfw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0ec0817d2
